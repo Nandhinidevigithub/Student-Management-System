@@ -1,0 +1,11 @@
+C:\Users\Pankaj\source\repos\StudentMgmtSystem\StudentEntity\bin\Debug\StudentEntity.dll
+C:\Users\Pankaj\source\repos\StudentMgmtSystem\StudentEntity\bin\Debug\StudentEntity.pdb
+C:\Users\Pankaj\source\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\source\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.dll
+C:\Users\Pankaj\source\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.pdb
+F:\Drive_C\repos\StudentMgmtSystem\StudentEntity\bin\Debug\StudentEntity.dll
+F:\Drive_C\repos\StudentMgmtSystem\StudentEntity\bin\Debug\StudentEntity.pdb
+F:\Drive_C\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.csproj.AssemblyReference.cache
+F:\Drive_C\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.csproj.CoreCompileInputs.cache
+F:\Drive_C\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.dll
+F:\Drive_C\repos\StudentMgmtSystem\StudentEntity\obj\Debug\StudentEntity.pdb
